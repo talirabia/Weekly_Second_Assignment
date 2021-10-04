@@ -1,2 +1,2 @@
 # Weekly_Second_Assignment
-print("hello there")
+history 50 > terminal_history.txt
